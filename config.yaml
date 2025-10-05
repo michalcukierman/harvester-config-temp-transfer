@@ -1,2 +1,3 @@
+scheme_version: 1
 install:
   iso_url: https://releases.rancher.com/harvester/master/harvester-master-amd64.iso
